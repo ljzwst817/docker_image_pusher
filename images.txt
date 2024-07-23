@@ -1,3 +1,4 @@
 alpine
 nginx
 python
+lovechen/embyserver
