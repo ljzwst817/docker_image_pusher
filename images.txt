@@ -2,3 +2,4 @@ alpine
 nginx
 python
 lovechen/embyserver
+diygod/rsshub
