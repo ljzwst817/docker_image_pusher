@@ -3,4 +3,4 @@ nginx
 python
 lovechen/embyserver
 diygod/rsshub
-nastool/nas-tc
+nastools/nas-tools
