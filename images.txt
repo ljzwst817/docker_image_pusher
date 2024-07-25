@@ -4,3 +4,4 @@ python
 lovechen/embyserver
 diygod/rsshub
 nastools/nas-tools
+Xiaoyahelper
