@@ -7,3 +7,6 @@ nastools/nas-tools
 Xiaoyahelper
 xiaoya-alist
 alist
+p3terx/aria2-pro
+jeessy/ddns-go
+linuxserver/qbittorrent
