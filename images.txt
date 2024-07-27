@@ -1,13 +1,2 @@
-alpine
-nginx
-python
 lovechen/embyserver
-diygod/rsshub
-nastools/nas-tools
-Xiaoyahelper
-xiaoya-alist
-alist
-p3terx/aria2-pro
-jeessy/ddns-go
-linuxserver/qbittorrent
 cnk3x/xunlei
