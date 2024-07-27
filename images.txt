@@ -10,3 +10,4 @@ alist
 p3terx/aria2-pro
 jeessy/ddns-go
 linuxserver/qbittorrent
+cnk3x/xunlei
