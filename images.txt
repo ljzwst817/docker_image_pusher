@@ -1,6 +1,1 @@
-lovechen/embyserver
-cnk3x/xunlei
-xiaoyaliu/alist
-haroldli/xiaoya-tvbox
-xiaoyaliu/emby
-duanjunzi/xunlei
+filebrowser/filebrowser
