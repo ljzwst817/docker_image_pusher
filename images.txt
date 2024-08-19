@@ -1,2 +1,3 @@
 looby/aliyundrive-subscribe
 whyour/qinglong
+FlechazoPh/QLDependency
